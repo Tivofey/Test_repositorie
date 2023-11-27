@@ -4,4 +4,6 @@ public interface LivingHouse {
 
     void objectDelivery(int year);
 
+    // протестируем комментом
+
 }

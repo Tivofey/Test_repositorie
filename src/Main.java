@@ -46,7 +46,5 @@ public class Main {
         System.out.println(Police.corruption(2));
         Police.makeReconstruction();
 
-        House home = new House();
-
     }
 }
